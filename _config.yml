@@ -2,15 +2,7 @@ remote_theme: mmistakes/minimal-mistakes
 title: Liyang Xie
 minimal-mistakes-skin: "mint"
 
-author:
-  name: Liyang Xie
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "xieliyang@utexas.edu"
-    - label: "Github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/LY-Xie"
+
 
 plugins:
   - jekyll-paginate
