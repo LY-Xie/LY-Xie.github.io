@@ -1,9 +1,10 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Liyang Xie
 minimal-mistakes-skin: "mint"
-
+layout: single
 author_profile: true
-footer:
+author:
+  name: "Liyang Xie"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
