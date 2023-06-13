@@ -3,8 +3,7 @@ title: Liyang Xie
 minimal-mistakes-skin: "mint"
 
 author_profile: true
-author:
-  name: Liyang Xie
+footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
