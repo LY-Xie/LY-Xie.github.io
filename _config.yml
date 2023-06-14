@@ -1,5 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
-title: 
+title: Liyang Xie
 minimal-mistakes-skin: "mint"
 defaults:
   # _posts
@@ -16,6 +16,10 @@ defaults:
 classes: wide
 author:
   name: "Liyang Xie"
+  avatar:
+  bio:
+  location:
+  email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
