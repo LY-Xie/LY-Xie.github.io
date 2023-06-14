@@ -8,7 +8,7 @@ title                    : "Liyang Xie's homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Liyang Xie"
-description              : "An amazing website."
+description              : "My personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -128,7 +128,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/LY-Xie"
+      # url: "https://github.com/LY-Xie"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
