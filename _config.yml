@@ -2,6 +2,7 @@ remote_theme: mmistakes/minimal-mistakes
 title: Liyang Xie
 minimal-mistakes-skin: "mint"
 author_profile: true
+layout: single
 
 plugins:
   - jekyll-paginate
