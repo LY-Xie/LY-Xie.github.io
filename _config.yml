@@ -278,3 +278,4 @@ defaults:
       comments: # true
       share: false
       related: false
+      recent: false
