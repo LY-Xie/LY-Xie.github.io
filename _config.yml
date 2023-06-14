@@ -1,32 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Liyang Xie
 minimal-mistakes-skin: "mint"
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
-classes: wide
-author:
-  name: "Liyang Xie"
-  avatar:
-  bio:
-  location:
-  email:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "xieliyang@utexas.edu"
-    - label: "Github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/LY-Xie"
+author_profile: true
 
 plugins:
   - jekyll-paginate
