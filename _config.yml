@@ -1,8 +1,19 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Liyang Xie
 minimal-mistakes-skin: "mint"
-layout: single
-author_profile: true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+
 author:
   name: "Liyang Xie"
   links:
