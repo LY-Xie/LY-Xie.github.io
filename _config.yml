@@ -94,9 +94,9 @@ analytics:
 author:
   name             : "Liyang Xie"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Statistics PhD student"
+  location         : "Austin, TX"
+  email            : "xieliyang@utexas.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
