@@ -8,7 +8,7 @@ title                    : "Liyang Xie's homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Liyang Xie"
-description              : "An amazing website."
+description              : "My personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,13 +94,13 @@ analytics:
 author:
   name             : "Liyang Xie"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Statistics PhD student."
+  location         : "Austin, TX"
+  email            : "xieliyang@utexas.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "xieliyang@utexas.edu"
+      # url: "xieliyang@utexas.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -139,6 +139,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+atom_feed:
+  hide: true
 
 # Reading Files
 include:
