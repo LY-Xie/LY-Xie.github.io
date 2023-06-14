@@ -13,7 +13,7 @@ defaults:
       comments: false
       share: false
       related: false
-
+classes: wide
 author:
   name: "Liyang Xie"
   links:
