@@ -139,8 +139,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-atom_feed:
-  hide: true
 
 # Reading Files
 include:
