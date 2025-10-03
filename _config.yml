@@ -188,6 +188,11 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+headerpages:
+  - index.md
+  - publications.md
+  - cv.md
+
 
 # Markdown Processing
 kramdown:
