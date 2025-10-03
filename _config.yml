@@ -111,12 +111,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-header_pages:
-  - index.md
-  - _pages/publications.md
-  - _pages/cv.md
-
-
 # Markdown Processing
 kramdown:
   input: GFM
