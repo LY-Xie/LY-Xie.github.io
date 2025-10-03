@@ -1,10 +1,9 @@
 ---
 layout: single
-title: Home
-permalink: /home/
+title: ""
 ---
 
-# Your Name
+# Liyang Xie
 PhD Student | Machine Learning | Protein Design  
 
 ![Profile](profile.jpg){: style="max-width:200px;" }
