@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Home
+permalink: /home/
 ---
 
 # Your Name
